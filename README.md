@@ -1,4 +1,9 @@
 一款半成品的D4DJ模拟器。<br />
+支持制作谱面、播放音乐、观看动漫、播放谱面等功能。<br />
+A semi-finished D4DJ simulator.<br />
+Supports features such as creating charts, playing music, watching animations, and playing charts.<br />
+
+你可以前往 https://www.bilibili.com/video/BV1RZ421Y7GW/ 预览并查看功能介绍。<br />
 由于各种原因，目前暂时停止开发。<br />
 自学代码质量不高，请多谅解。<br />
 
@@ -10,6 +15,7 @@
 
 模拟器完成了谱面播放器的基本代码<br />
 *若想要播放谱面，请尝试如下步骤∶<br />
+(在视频中也有介绍)<br />
 1. 打开菜单
 2. 点击关于软件
 3. 点击简介分类下的日高沙织Q版人物10次
